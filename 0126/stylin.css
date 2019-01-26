@@ -1,0 +1,31 @@
+    header {
+        background-color: #333333;
+    }
+
+    h1 {
+        font-size: 28px;
+        color: #eee;
+    }
+
+    h2 {
+        font-size: 24px;
+    }
+
+    .container {
+        margin: 0 auto;
+    }
+
+    .ipsum {
+        font-family: 'Roboto', sans-serif;
+        font-size: 48px;
+        font-weight: 2;
+        line-height: 1.5;
+        float: left; 
+    }
+
+    .listofthings {
+        float: left;
+        line-height: 1.5;
+    }
+
+ 
