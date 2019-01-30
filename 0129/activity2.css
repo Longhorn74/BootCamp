@@ -1,0 +1,9 @@
+@media screen and (max-width: 600p)  {
+    body {
+        background-color: #333;
+    }
+
+    .wrapper {
+        width: 600px;
+    }
+}
