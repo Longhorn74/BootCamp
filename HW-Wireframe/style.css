@@ -84,10 +84,4 @@ p {
     padding-top: 10px;
 }
 
-/* LACKING:
-    1. overflow
-    2. clear
-    3. aside top & bottom margins off
-    4. section needs layered boxes 
-    5. display: inline-block vs block? 
-    6. */
+/* LACKING: overflow */
